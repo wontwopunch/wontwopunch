@@ -2,7 +2,7 @@
 #### 💡 [데이터분석가](https://jiwontwopunch.notion.site/a53e39a51d7e4dc2add40a3f896539fc?pvs=4)
 #### 🪪 자격증
 - [x]  네트워크관리사 2급
-- [ ]  ADsP
+- [x]  ADsP
 - [ ]  SQLP
 - [ ]  ADP
 - [ ]  빅데이터분석기사
