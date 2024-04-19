@@ -11,8 +11,4 @@
 - [ ]  AZ-900
 - [ ]  DP-900
 - [ ]  AWS DevOps Professional (DOP-CO2)
-- [ ]  클라우데라 자격증
-- 기관: 클라우데라
-- 비용: 300달러
-[클라우데라 데이터 애널리스트 교육(Cloudera Data Analyst Training)](https://www.cloudera.com/more/training/courses/data-analyst-training.html?course=data-analyst&loc=online) 과정 이수 권장
 
