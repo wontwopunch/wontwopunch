@@ -10,5 +10,5 @@
 - [ ]  정보처리기사
 - [ ]  AZ-900
 - [ ]  DP-900
-- [ ]  AWS DevOps Professional (DOP-CO2)
+- [ ]  AICE
 
