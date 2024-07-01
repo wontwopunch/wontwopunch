@@ -13,7 +13,5 @@
 - [ ]  SAA
 - [ ]  AZ-900
 - [ ]  AZ-104
-- [ ]  ADP
 - [ ]  OCP
 - [ ]  OCM
-- [ ]  TOPCIT
