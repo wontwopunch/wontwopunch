@@ -4,5 +4,5 @@
 - [ ]  SQLP
 - [ ]  정보처리기사
 - [ ]  웹디자인개발기능사
-- [ ]  GTQ포토샵1급
+- [ ]  리눅스마스터1급
 - [ ]  AWS Certified Solutions Architect Associate
